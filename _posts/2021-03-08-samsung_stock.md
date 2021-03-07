@@ -3,8 +3,6 @@ layout: single
 title:  "GRU를 활용한 삼성전자 주가 동향 예측"
 ---
 
-[원문 링크](https://github.com/Ssunder4s/Ssunder4s.github.io/blob/master/_posts/2021-03-08-samsung_stock.md)
-
 ## 필요한 모듈 가져오기
 
 
@@ -1459,6 +1457,8 @@ plt.legend
 
 ![png](output_23_1.png)
 
+이미지가 안보인다면 아래 링크에서 확인하세요
+[원문 링크](https://github.com/Ssunder4s/Ssunder4s.github.io/blob/master/_posts/2021-03-08-samsung_stock.md)
 
 ## 붉은선 이후를 확대하여 확인
 예상대로 삼성전자 3월 주가는 하락세를 걷게 될까요...?
