@@ -3,6 +3,8 @@ layout: single
 title:  "GRU를 활용한 삼성전자 주가 동향 예측"
 ---
 
+[원문 링크](https://github.com/Ssunder4s/Ssunder4s.github.io/blob/master/_posts/2021-03-08-samsung_stock.md)
+
 ## 필요한 모듈 가져오기
 
 
