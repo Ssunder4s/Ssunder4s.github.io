@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "GRU를 활용한 삼성전자 주가 동향 예측"
+---
+
 # GRU를 활용한 삼성전자 주가 동향 예측
 
 ## 필요한 모듈 가져오기
@@ -1456,7 +1461,8 @@ plt.legend
 
 
 ## 붉은선 이후를 확대하여 확인
-
+예상대로 삼성전자 3월 주가는 하락세를 걷게 될까요...?
+지켜보겠습니다...
 
 ```python
 data1 = data[data.shape[0]-forecast-TEST_SIZE-10:].reset_index(drop=True)
