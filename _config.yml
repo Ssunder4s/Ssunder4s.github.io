@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Heo, Sun-Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am majoring in business at Graduate School of Hanyang University."
+  bio              : "I am a graduate school student."
   location         : "Somewhere"
-  email            :
+  email            : "tjsdn447@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
